@@ -8,8 +8,3 @@
 
 
 ## Insights
-
-### Insight 1:
-
-
-### Insight 2:
