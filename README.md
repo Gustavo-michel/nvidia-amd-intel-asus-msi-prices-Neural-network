@@ -8,3 +8,5 @@
 
 
 ## Insights
+![image](https://github.com/Gustavo-michel/nvidia-amd-intel-asus-msi-prices-Neural-network/assets/127684360/37c97dcd-03a9-4cdc-a782-53c9df75c311)
+ Test of model prediction of AMD prices(not date)
